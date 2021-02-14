@@ -14,7 +14,7 @@ i usually work in the dark and totally alone "like a worm"  but ive thinked that
 I realize it's a shot in the dark, but you never know ...
 
 let me know if someone is interested in it or is already working on a similiar project.
-- 📫 Youn Can reach me on Discord @  Cecio#6850 
+- 📫 You Can reach me on Discord @  Cecio#6850 
 
 <!---
 ceciogit/ceciogit is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
