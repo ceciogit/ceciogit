@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @ceciogit
+- 👋 Hi, I’m who iam
 
-- 💞️ Building something with PHP Laravel, Vue , Tailwind Css 
-- 📫 You Can reach me on Discord @  Cecio#6850 
+- 💞️ Building something with PHP Laravel, Vue , Tailwind Css , coffee and from time to time some redbull
+- 📫 na.. 
 
 <!---
 ceciogit/ceciogit is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
